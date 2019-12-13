@@ -63,10 +63,11 @@ body {
 
 .container {
     margin: 0 auto;
+    max-width: 100%;
 }
 
 #completed {
     display: block;
-    font-size: 10.5rem;
+    font-size: 10.5vw;
     text-transform: uppercase;
 }
